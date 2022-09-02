@@ -1,2 +1,6 @@
 #!/bin/bash
-The school is open
+<<<<<<< HEAD
+The school is open!
+======  
+ALX School                                                                                                                                             
+>>>>>>> update_script
